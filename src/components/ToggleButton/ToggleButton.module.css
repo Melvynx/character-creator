@@ -8,6 +8,9 @@
   outline-offset: 2px;
   border-radius: 1px;
   cursor: pointer;
+  /* Safari style */
+  color: hsl(0deg, 0%, 0%);
+  padding: 2px;
   /*
     HACK: Margin on an outer bound like this is
     a little gross, but we haven't seen the tools
